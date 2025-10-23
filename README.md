@@ -73,20 +73,20 @@
 
 ###
 
-<div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=akvarc.akvarc&left_color=darkslategrey&right_color=indianred&left_text=Profile%20view"  />
+<br clear="both">
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=akvarc.akvarc&left_color=darkslategrey&right_color=indianred&left_text=Profile%20view"  />
+
+###
+
+<div align="left">
+  <img height="200" src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif"  />
 </div>
 
 ###
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
-</div>
-
-###
-
-<div align="right">
-  <img height="200" src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif"  />
 </div>
 
 ###
