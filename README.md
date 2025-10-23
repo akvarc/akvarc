@@ -10,15 +10,11 @@
 
 ###
 
-<h2 align="left">I code with</h2>
-
-###
-
 <p align="left">- 🔭 I’m currently working on new Projects<br>- 🌱 I’m currently learning NextJs<br>- 👯 I’m looking to collaborate on Web dev project<br>- 💬 Ask me about Web development<br>- 📫 How to reach me: babluverma@gmail.com</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Skills</h2>
 
 ###
 
